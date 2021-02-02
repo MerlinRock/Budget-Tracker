@@ -40,7 +40,7 @@
 
     
  ## Screen Shots
-      
+<img width="773" alt="Screenshot 2021-02-01 205447" src="https://user-images.githubusercontent.com/74565661/106541541-39c32e80-64d0-11eb-823c-77c183b0535d.png">
     
  ## Contributors
 
@@ -56,9 +56,9 @@ N/A
     
  ## Contact
 
-    * [MerlinRock GitHub account](https://github.com/MerlinRock)
+   * [MerlinRock GitHub account](https://github.com/MerlinRock)
 
-    * [rock.merlin@yahoo.com]
+   * [rock.merlin@yahoo.com]
 
 
 
